@@ -1,3 +1,8 @@
+@font-face {
+    font-family: bluevar;
+    src: url(./bluevar.woff2);
+}
+
 * {
     margin: 0;
     padding: 0;
