@@ -1,4 +1,7 @@
-
+@font-face {
+    font-family: bulevar;
+    src: url(./631e4416700e2c5aacd666eb_Bulevar-Regular\ \(1\).ttf);
+}
 
 * {
     margin: 0;
